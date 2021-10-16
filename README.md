@@ -1,1 +1,1 @@
-Data set for Machine Learning
+Data-set for Machine Learning
